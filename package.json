@@ -1,0 +1,26 @@
+{
+  "name": "@michaelyons/sweet-fake-npm-package",
+  "version": "1.0.0",
+  "description": "An example npm package",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelyons/sweet-fake-npm-package.git"
+  },
+  "author": "Michael Lyons",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaelyons/sweet-fake-npm-package/issues"
+  },
+  "homepage": "https://github.com/michaelyons/sweet-fake-npm-package#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
